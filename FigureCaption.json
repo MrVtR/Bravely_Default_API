@@ -1,0 +1,17 @@
+[
+  {
+    "figureUrl": "https://raw.githubusercontent.com/MrVtR/Bravely_Default_Image_DB/main/Cartridge%20Covers/bravely-naCover.jpg",
+    "caption": "americana",
+    "id": "1"
+  },
+  {
+    "figureUrl": "https://raw.githubusercontent.com/MrVtR/Bravely_Default_Image_DB/main/Cartridge%20Covers/bravely-euCover.jpg",
+    "caption": "europeia",
+    "id": "2"
+  },
+  {
+    "figureUrl": "https://raw.githubusercontent.com/MrVtR/Bravely_Default_Image_DB/main/Cartridge%20Covers/bravely-jpCover.jpg",
+    "caption": "japonesa",
+    "id": "3"
+  }
+]
