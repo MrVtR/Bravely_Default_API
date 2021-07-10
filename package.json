@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/MrVtR/Bravely_Default_API.git",
   "author": "MrVtR <30987772+MrVtR@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
