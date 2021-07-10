@@ -1,7 +1,10 @@
 import express from 'express';
 const app = express();
-import characters from './routes/characters.js';
+import { Characters, Home, Organizations, Villains } from './routes/index.js';
 
-app.use('/personagens', characters);
+app.use('/', Home);
+app.use('/personagens', Characters);
+app.use('/organizacoes', Organizations);
+app.use('/viloes', Villains);
 
 export default app;
