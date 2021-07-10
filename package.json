@@ -1,0 +1,9 @@
+{
+  "name": "bravely_default_api",
+  "version": "1.0.0",
+  "description": "Bravely Default Rest API",
+  "main": "index.js",
+  "repository": "https://github.com/MrVtR/Bravely_Default_API.git",
+  "author": "MrVtR <30987772+MrVtR@users.noreply.github.com>",
+  "license": "MIT"
+}
