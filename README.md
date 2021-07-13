@@ -1,13 +1,14 @@
 # Bravely_Default_API
 
 ## Conceito do projeto
-Este projeto consiste em construir uma API para o jogo Bravely Default, desenvolvida por mim e que será consumida no projeto da Montagem de uma Wiki do jogo, podendo ter o progresso conferido neste link.
+Este projeto consiste em construir uma API para o jogo Bravely Default, desenvolvida por mim e que será consumida no projeto da Montagem de uma Wiki do jogo, podendo ter o progresso conferido [neste link](https://github.com/MrVtR/Bravely_Default_Wiki).
 
 ### Versão Beta 
-A primeira versão feita para este projeto de API foi construída utilizando o site mockapi.io, este site permite que o usuário crie e consuma uma API limitada no plano gratuito e já está finalizada, podendo ser conferida a partir da clonagem do projeto(necessário uma conta criada no site para clonar).
+A primeira versão feita para este projeto de API foi construída utilizando o site [mockapi.io](mockapi.io), este site permite que o usuário crie e consuma uma API limitada no plano gratuito e já está finalizada, podendo ser conferida a partir da clonagem do projeto(necessário uma conta criada no site para clonar).
 
 ### Versão Completa
-A versão completa está sendo construída neste exato momento e seu progresso poderá ser conferido no presente repositório. Consistindo de uma aplicação feita em Node.js, o objetivo é fazer uma API completa do jogo que possa ser futuramente ser integrada e consumida dentro do projeto de Wiki do jogo
+A versão completa está sendo construída neste exato momento e seu progresso poderá ser conferido no presente repositório. <br/>
+Consistindo de uma aplicação feita em Node.js, o objetivo é fazer uma API completa do jogo que possa ser futuramente ser integrada e consumida dentro do projeto de Wiki do jogo
 
 ### To-Do List da Versão Completa da API
 - [x] Criar o servidor que irá rodar a aplicação
@@ -20,7 +21,7 @@ A versão completa está sendo construída neste exato momento e seu progresso p
 - [ ] Consumir a API na Wiki do jogo
 
 ## Pré-requisitos e recursos utilizados
-Para a versão Beta da API, foi utilizado apenas o site mockapi.io como recurso utilizado, além da montagem dos arquivos .json para serem consumidos no site
+Para a versão Beta da API, foi utilizado apenas o site [mockapi.io](mockapi.io) como recurso utilizado, além da montagem dos arquivos .json para serem consumidos no site, baseados na [Wiki oficial do jogo](https://bravelydefault.fandom.com/wiki/Bravely_Default_Wiki) <br/>
 Já na versão Completa, estou utilizando das seguintes bibliotecas em Node.JS para criar a aplicação:
 1. Express para ser possível criar um servidor que recebe requisições e retorna os dados solicitados
 2. CreateRequire para importar arquivos .json sem que haja conflitos devido a sintaxe nova do JavaScript ES6
